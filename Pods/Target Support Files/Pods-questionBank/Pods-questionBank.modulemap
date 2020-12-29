@@ -1,0 +1,6 @@
+module Pods_questionBank {
+  umbrella header "Pods-questionBank-umbrella.h"
+
+  export *
+  module * { export * }
+}

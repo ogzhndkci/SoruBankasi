@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>635024832193-b1fijuc09r585qk9bnmi308nnk09n2kc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.635024832193-b1fijuc09r585qk9bnmi308nnk09n2kc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDLvlpz2c-4ks3z7-xx0XcHgKCgaEMU-Yc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>635024832193</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>c.questionBank</string>
+	<key>PROJECT_ID</key>
+	<string>questionbankfirebase</string>
+	<key>STORAGE_BUCKET</key>
+	<string>questionbankfirebase.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:635024832193:ios:634bfe58f26ff75d904640</string>
+	<key>DATABASE_URL</key>
+	<string>https://questionbankfirebase.firebaseio.com</string>
+</dict>
+</plist>
